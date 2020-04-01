@@ -1,0 +1,28 @@
+body { 
+  background: url("/images/breaking_bad_1920x1080.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: yellow;
+}
+
+.title {
+    font-size: 5rem;
+}
+
+#survey {
+    margin-bottom: 20px;
+}
+
+.submit {
+    margin-bottom: 20px;
+}
+
+.about-you {
+    display: none;
+}
+
+#friendForm {
+    display: none;
+}
