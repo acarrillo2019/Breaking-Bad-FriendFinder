@@ -19,9 +19,10 @@ Link to app deployed on Heroku: [Breaking Bad Friend Finder] (https://lit-tundra
 
 ### Developer's Notes:
 
-    Knowledge of the show is not really needed, just try it out!
     If a response for a question is not selected, the default response selected is "3".
+    Knowledge of the show is not really needed, just try it out!
+    
 
-![](/screenshots/bbss_3.png)
-![](/screenshots/bbss_2.png)
-![](/screenshots/bbss_1.png)
+![](/screenshots/bbss_3.PNG)
+![](/screenshots/bbss_2.PNG)
+![](/screenshots/bbss_1.PNG)
