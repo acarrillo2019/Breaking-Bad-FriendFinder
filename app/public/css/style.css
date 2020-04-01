@@ -4,7 +4,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: yellow;
+  color: white;
 }
 
 .title {
@@ -25,4 +25,12 @@ body {
 
 #friendForm {
     display: none;
+}
+
+.enter {
+    margin-top: 200px;
+}
+
+.surveyButt {
+    margin-bottom: 30px;
 }
