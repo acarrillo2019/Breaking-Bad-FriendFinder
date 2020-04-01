@@ -6,7 +6,7 @@
 
 After completing a short survey, the application will perform a comptability comparision to potential friends from the show, Breaking Bad, who are already in the application's friend table. The application will then display the name and image of the character that best fits as a potential friend.
 
-Link to app deployed on Heroku: [Breaking Bad Friend Finder] (https://lit-tundra-82040.herokuapp.com/)
+Link to app deployed on Heroku: [Breaking Bad Friend Finder](https://lit-tundra-82040.herokuapp.com/)
 
 ##Tools
 
