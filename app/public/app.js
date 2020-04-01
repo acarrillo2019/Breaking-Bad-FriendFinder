@@ -11,7 +11,17 @@ var surveyQuestions = [
     "Tuco Salamanca is just mis-understood.",
     "Hank should have forgiven Walt.",
     "I feel sorry for Mike and his grand daughter.",
-    "Gus is a psycho path."
+    "Gus is a psycho path.",
+    "Walter had no choice, he had to cook for his family",
+    "Jesse is cool",
+    "Hector Salamanca is awesome",
+    "Hank is cool",
+    "Heisenberg is a legend",
+    "Saul Goodman is the best lawyer ever",
+    "Mike should've killed Walt after that thing with Gus happened",
+    "Walt Jr. should forgive Walt",
+    "Skyler is just as culpable as Walt",
+    "It was all worth it"
   ]
   
   // Display the survey questions
@@ -45,9 +55,9 @@ var surveyQuestions = [
          +   `<h6>${surveyQuestions[i]}</h6>`
          +   `<select id = "q${i}" class="custom-select custom-select-sm" style="width: 15%">`
          +   `<option selected value="3">Select an Option</option>`
-         +   `<option value="1">1 (Strongly Disagree</option>`
+         +   `<option value="1">1 (Strongly Disagree)</option>`
          +   `<option value="2">2</option>`
-         +   `<option value="3">3</option>`
+         +   `<option value="3">3 (Indifferent)</option>`
          +   `<option value="4">4</option>`
          +   `<option value="5">5 (Strongly Agree)</option>`
          +   `</select><br><br>`
