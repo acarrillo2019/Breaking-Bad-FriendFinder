@@ -37,7 +37,7 @@ var surveyQuestions = [
       let newFriend = getsurveyAnswers()
   
       // Add new friend to friend data array
-      $.post("/api/friends", newFriend);
+    //   $.post("/api/friends", newFriend);
   
       // Get all possible friends from list
       $.get("/api/friends", (data) => {

@@ -8,6 +8,10 @@ body {
 }
 
 .title {
+    font-size: 6rem;
+}
+
+.title-two {
     font-size: 5rem;
 }
 
@@ -37,4 +41,9 @@ body {
 
 .modal-body, .modal-title {
     color: rgb(9, 78, 9);
+}
+
+.blurb {
+    padding: 40px;
+    font-size: 1rem;
 }
